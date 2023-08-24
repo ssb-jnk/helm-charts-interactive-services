@@ -70,6 +70,8 @@ jobs:
             - 'charts/jupyter-tensorflow-gpu/**'
           rstudio:
             - 'charts/rstudio/**'
+          rstudio-custom:
+            - 'charts/rstudio-custom/**'
           rstudio-gpu:
             - 'charts/rstudio-gpu/**'
           rstudio-sparkr:
