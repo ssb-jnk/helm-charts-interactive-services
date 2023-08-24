@@ -1,4 +1,4 @@
-# rstudio
+# rstudio-custom
 
 ![Version: 1.12.8](https://img.shields.io/badge/Version-1.12.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square)
 
@@ -8,14 +8,14 @@ The RStudio IDE with a collection of standard data science packages.
 
 ## Source Code
 
-* <https://github.com/InseeFrLab/images-datascience>
-* <https://github.com/InseeFrLab/helm-charts-interactive-services>
+* <https://github.com/ssb-jnk/images-datascience>
+* <https://github.com/ssb-jnk/helm-charts-interactive-services>
 
 ## Requirements
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://johnksv.github.io/helm-charts-interactive-services | library-chart | 1.3.21 |
+| https://github.com/ssb-jnk/helm-charts-interactive-services | library-chart | 1.3.21 |
 
 ## Values
 
